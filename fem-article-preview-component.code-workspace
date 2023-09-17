@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/fem-article-preview-component"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "article-preview-component-master"
+	}
+}
