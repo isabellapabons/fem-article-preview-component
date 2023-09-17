@@ -1,0 +1,60 @@
+body {
+    margin: 50px;
+    background-color: hsl(210, 46%, 95%);
+    font-family: Manrope;
+}
+
+/* Main Image Layout*/
+
+.drawers-image {
+    width: 30rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px 12px 0px 0px;
+}
+
+/* Capsule Design */
+
+.capsule {
+border-radius: 12px;
+background-color: white;
+overflow: hidden;
+}
+
+
+/* Heading */
+
+.heading {
+    color: hsl(217, 19%, 35%);
+   text-align: left;
+   margin: 2rem;
+   font-size: 22px;
+   line-height: 30px;
+
+}
+
+/* Paragraph */
+
+.paragraph {
+ color: hsl(217, 19%, 35%);
+ text-align: left;
+   margin: 2rem;
+   font-size: 15px ;
+   line-height: 25px;
+}
+
+
+/* Avatar Details */
+
+.avatar-details {
+    text-align: center;
+}
+
+.avatar-name {
+    color: hsl(217, 19%, 35%);
+    font-weight: 700;
+}
+
+.avatar-date {
+    color: hsl(217, 19%, 35%);
+}
